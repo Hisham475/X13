@@ -10,7 +10,7 @@ import android.widget.Button;
 import com.shashank.sony.fancytoastlib.FancyToast;
 
 public class MainActivity extends AppCompatActivity {
-// hisham
+    // ناقه
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
